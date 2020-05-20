@@ -1,30 +1,25 @@
 #Project Introduction:
 
 Hello !!
- Welcome to our application RWA(Routing Wavelenght Assignment).
-As you know the general objective of the RWA problem is to maximize
-the number of established connections.
-Each connection request must be given a route and wavelength.
- The wavelength must be consistent for the entire path, 
-unless the usage of wavelength converters is assumed.
- Two connections requests can share the same optical link, 
+    Welcome to our application RWA(Routing Wavelenght Assignment).As you know the general objective of the RWA problem is to maximize
+the number of established connections.Each connection request must be given a route and wavelength.The wavelength must be consistent for the entire path,unless the usage of wavelength converters is assumed.Two connections requests can share the same optical link, 
 provided a different wavelength is used.
- Getting Started
 
-These instructions will get you a copy of the project up and running 
-on your local machine for development and testing purposes.
+#Getting Started
 
-Prerequisites:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-•if you want develop or test the code we invite you to install Anaconda 
-on Windows. You find in this following link explicated details:
+#Prerequisites:
+
+If you want develop or test the code we invite you to install Anaconda on Windows. You find in this following link explicated details:
 https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/
 
-How to interact with our GUI:
+#How to interact with our GUI:
 
-The zip folder contains everything you need,
-We advise you to read these following steps carefully:
+The zip folder contains everything you need.We advise you to read these following steps carefully:
+
 •	To start you must input three matrices : 
+
 •	A is the matrix of the graph
 •	B is the matrix of the connection requests
 •	X is the matrix of Time
@@ -58,5 +53,5 @@ After you need just to click in these button to visualize in new window:
 -The generated paths
 -The optimize solution of the problem
  
-
+#acknowledgement
 Finally,thank you for choosing our application and we hope that you enjoy with using it!
