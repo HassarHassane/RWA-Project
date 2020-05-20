@@ -1,0 +1,9 @@
+The choosen path and their color is is:
+ 
+1->3->2->4  Color number 1
+3->2  Color number 1
+4->2  Color number 1
+
+
+The number of colors used is :  1 / 2
+The number of connection request succedeed is : 3 / 3
