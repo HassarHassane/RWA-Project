@@ -34,7 +34,9 @@ To start you must input three matrices :
 <li>
 A is the matrix of the graph
 </li>
+  <li>
 B is the matrix of the connection requests
+    </li>
 <li>
 X is the matrix of Time
 </li>
@@ -47,8 +49,11 @@ To input a matrix you must open the excel file and modify the matrix:
 To add matrix A: 
 Put 1 if you have a path between two edges and 0 otherwise.
 </li>
+  <li>
 To add matrix B 
 Each line contains a connection request,1 on aij means that we want a connection between i and j and 0 otherwise.
+
+</li>
 <li>
 To add matrix X
 Each line time for a connection request,in evrey line we have two 1,
