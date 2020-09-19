@@ -1,5 +1,5 @@
 ## Project title
-I chose as title of my project 'RWA-Python'.
+This project comes within the context of the course Programming Paradigms & Python Algorithms. I collaborated with my classmates to realize it. We chose as title of our project 'RWA-Python'.
 
 ## Introducion
 <p> Welcome to our application RWA(Routing Wavelenght Assignment).As you know the general objective of the RWA problem is to maximize
